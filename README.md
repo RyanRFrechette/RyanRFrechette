@@ -4,10 +4,10 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Requirements and Setup](https://github.com/RyanRFrechette/osticket-prereqs)
-  - [osTicket: After-Setup Adjustments Configuration](https://github.com/RyanRFrechette/post-install-config)
-  - [osTicket: Sample Scenarios of Ticket Stages](https://github.com/RyanRFrechette/ticket-lifecycle)
+  - [osTicket: After-Setup Adjustments Configuration](https://github.com/RyanRFrechette/after-setup-config)
+  - [osTicket: Sample Scenarios of Ticket Stages](https://github.com/RyanRFrechette/ticket-stages)
 - <b>Microsoft Azure</b>
-  - [Configuring Setting Up On-site Active Directory on Azure Virtual Machines](https://github.com/RyanRFrechette/configure-ad)
+  - [Configuring Setting Up On-site Active Directory on Azure Virtual Machines](https://github.com/RyanRFrechette/ad-setup)
   - [Examining Network Protocols and Network Security Group (NSG) Management](https://github.com/RyanRFrechette/azure-network-protocols)
 
 <h2>📱Get in Touch with Me:</h2>
