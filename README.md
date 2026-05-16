@@ -2,9 +2,17 @@
 
 <h2>Start Here</h2>
 
-I'm building a hands-on portfolio for remote IT support, cloud support, and practical automation roles. The projects below show troubleshooting, ticket documentation, Azure fundamentals, Active Directory basics, Windows command-line diagnostics, and Python/API automation. For a fast review, start with Inbox Scout, then the Remote Support Operations Lab, then the Windows and Azure labs.
+I'm building a hands-on portfolio for remote IT support, cloud support, and practical automation roles. The projects below show troubleshooting, ticket documentation, Azure fundamentals, Active Directory basics, Windows command-line diagnostics, and Python/API automation.
 
-I'm building a hands-on portfolio for remote IT support, Windows troubleshooting, Azure fundamentals, help desk operations, and practical AI automation. My projects are designed to show real troubleshooting process, clear documentation, API automation, and support-ready communication.
+For a fast review, start with:
+
+1. <a href="https://github.com/RyanRFrechette/inbox-scout">AI Gmail Cleanup Assistant — Inbox Scout</a>
+2. <a href="https://github.com/RyanRFrechette/Remote-Support-Operations-Lab">Remote IT Support Operations Lab</a>
+3. <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Command-Line Troubleshooting Lab</a>
+4. <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory on Azure Lab</a>
+5. <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Troubleshooting Lab</a>
+
+For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide</a>.
 
 <h2>Featured Portfolio Projects</h2>
 
