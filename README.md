@@ -6,7 +6,7 @@ I'm building a hands-on portfolio for remote IT support, Windows troubleshooting
 
 <h3>1. AI Automation / Python</h3>
 
-- <b>Inbox Scout — AI Email Automation Assistant</b>
+- <b>AI Gmail Cleanup Assistant — Inbox Scout with Telegram Control</b>
   - <a href="https://github.com/RyanRFrechette/inbox-scout">Inbox Scout</a>
   - Local-first Python automation project using Gmail API, Telegram bot control, AI-assisted classification, OpenRouter model routing, safety gates, audit logs, and reversible Gmail Trash actions.
 
