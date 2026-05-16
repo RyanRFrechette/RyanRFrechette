@@ -1,5 +1,9 @@
 <h1>Hi, I'm Ryan Frechette — Remote IT Support, Cloud, and Automation Portfolio</h1>
 
+<h2>Start Here</h2>
+
+I'm building a hands-on portfolio for remote IT support, cloud support, and practical automation roles. The projects below show troubleshooting, ticket documentation, Azure fundamentals, Active Directory basics, Windows command-line diagnostics, and Python/API automation. For a fast review, start with Inbox Scout, then the Remote Support Operations Lab, then the Windows and Azure labs.
+
 I'm building a hands-on portfolio for remote IT support, Windows troubleshooting, Azure fundamentals, help desk operations, and practical AI automation. My projects are designed to show real troubleshooting process, clear documentation, API automation, and support-ready communication.
 
 <h2>Featured Portfolio Projects</h2>
