@@ -1,43 +1,43 @@
-<h1>Hi, I'm Ryan Frechette — IT Support, Cloud, and Automation Portfolio</h1>
+<h1>Hi, I'm Ryan Frechette — Remote IT Support, Cloud, and Automation Portfolio</h1>
 
-I'm building a portfolio around remote IT support, Windows troubleshooting, Azure fundamentals, help desk operations, and practical AI automation. My goal is to show hands-on ability through documented labs, real troubleshooting workflows, and useful automation projects.
+I'm building a hands-on portfolio for remote IT support, Windows troubleshooting, Azure fundamentals, help desk operations, and practical AI automation. My projects are designed to show real troubleshooting process, clear documentation, API automation, and support-ready communication.
 
 <h2>Featured Portfolio Projects</h2>
 
-<h3>AI Automation</h3>
+<h3>1. AI Automation / Python</h3>
 
-- <b>Inbox Scout — AI Gmail Cleanup Assistant</b>
+- <b>Inbox Scout — AI Email Automation Assistant</b>
   - <a href="https://github.com/RyanRFrechette/inbox-scout">Inbox Scout</a>
   - Local-first Python automation project using Gmail API, Telegram bot control, AI-assisted classification, OpenRouter model routing, safety gates, audit logs, and reversible Gmail Trash actions.
 
-<h3>Remote IT Support / Help Desk</h3>
+<h3>2. Remote IT Support / Help Desk</h3>
 
-- <b>Remote Support Operations Lab</b>
+- <b>Remote Support Operations Lab — Tickets, KB Articles, and Cloud Support Scenarios</b>
   - <a href="https://github.com/RyanRFrechette/Remote-Support-Operations-Lab">Remote Support Operations Lab</a>
   - Simulated remote support portfolio with realistic tickets, knowledge base articles, Microsoft 365 support scenarios, VPN/network troubleshooting, phishing triage, and Azure/Windows support notes.
 
-- <b>Windows Troubleshooting Command Line Lab</b>
+- <b>Windows Command-Line Troubleshooting Lab — Real Diagnostic Output and Support Notes</b>
   - <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Troubleshooting Command Line Lab</a>
   - Practical command-line troubleshooting lab covering ipconfig, ping, tracert, nslookup, systeminfo, tasklist, and netstat with privacy-cleaned command output and support-style notes.
 
-<h3>osTicket Help Desk Labs</h3>
+<h3>3. Help Desk Platform Administration</h3>
 
-- <b>osTicket Help Desk Ticketing System</b>
-  - <a href="https://github.com/RyanRFrechette/osticket-setup">osTicket: Requirements and Setup</a>
-  - <a href="https://github.com/RyanRFrechette/post-install-config">osTicket: Post-Installation Configuration</a>
-  - <a href="https://github.com/RyanRFrechette/ticket-stages">osTicket: Ticket Lifecycle: Intake Through Resolution</a>
+- <b>osTicket Help Desk Series — Deployment, Configuration, and Ticket Lifecycle</b>
+  - <a href="https://github.com/RyanRFrechette/osticket-setup">osTicket Platform Deployment on Azure</a>
+  - <a href="https://github.com/RyanRFrechette/post-install-config">osTicket Post-Install Support Configuration</a>
+  - <a href="https://github.com/RyanRFrechette/ticket-stages">osTicket Ticket Lifecycle Workflow</a>
 
-<h3>Microsoft Azure / Windows Administration</h3>
+<h3>4. Microsoft Azure / Windows Administration</h3>
 
-- <b>Azure Active Directory / Domain Services Lab</b>
-  - <a href="https://github.com/RyanRFrechette/ad-setup">Configuring Active Directory on Azure Virtual Machines</a>
-  - Demonstrates Windows Server, domain controller setup, DNS, domain joining, organizational units, users, groups, and account administration.
+- <b>Active Directory on Azure — Domain Controller, DNS, Users, and Remote Access</b>
+  - <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory Lab: Domain Controller and User Management in Azure</a>
+  - Demonstrates Windows Server, domain controller setup, DNS, domain joining, organizational units, users, groups, RDP, and account administration.
 
-- <b>Azure Networking and Protocol Analysis Lab</b>
-  - <a href="https://github.com/RyanRFrechette/azure-network-protocols">Examining Network Protocols and NSG Management</a>
+- <b>Azure Networking and NSG Troubleshooting — Wireshark, Protocols, and Cloud Firewall Rules</b>
+  - <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Protocols and NSG Troubleshooting Lab</a>
   - Demonstrates Azure VMs, Wireshark, ICMP, SSH, DNS, RDP, command-line troubleshooting, and Network Security Group rule testing.
 
-<h2>Skills Demonstrated</h2>
+<h2>Core Skills Demonstrated</h2>
 
 - Remote IT support and ticket documentation
 - Windows troubleshooting and command-line diagnostics
@@ -48,6 +48,14 @@ I'm building a portfolio around remote IT support, Windows troubleshooting, Azur
 - Python automation and API integration
 - Gmail API, Telegram Bot API, OAuth, and AI-assisted workflows
 - Safety-first automation design with logs, gates, and reversible actions
+
+<h2>Target Roles</h2>
+
+- Remote Help Desk / IT Support Specialist
+- Technical Support Specialist
+- Cloud Support Associate
+- Junior Systems Administrator
+- Cloud / Automation Support Pathway
 
 <h2>Contact</h2>
 
