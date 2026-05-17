@@ -61,6 +61,11 @@ For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide
 - Gmail API, Telegram Bot API, OAuth, and AI-assisted workflows
 - Safety-first automation design with logs, gates, and reversible actions
 
+<h2>Certifications & Training</h2>
+
+- Google IT Support Professional Certificate  
+  Foundational training in troubleshooting, customer support, operating systems, networking, system administration, and security basics.
+
 <h2>Target Roles</h2>
 
 - Remote Help Desk / IT Support Specialist
