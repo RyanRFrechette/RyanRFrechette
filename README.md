@@ -9,7 +9,7 @@ For a fast review, start with:
 1. <a href="https://github.com/RyanRFrechette/inbox-scout">AI Gmail Cleanup Assistant — Inbox Scout</a>
 2. <a href="https://github.com/RyanRFrechette/Remote-Support-Operations-Lab">Remote IT Support Operations Lab</a>
 3. <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Command-Line Troubleshooting Lab</a>
-4. <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory on Azure Lab</a>
+4. <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory User Support Lab on Azure</a>
 5. <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Troubleshooting Lab</a>
 6. <a href="https://github.com/RyanRFrechette/osticket-help-desk-lab">osTicket Help Desk Lab</a>
 
@@ -39,9 +39,9 @@ For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide
 
 <h3>3. Microsoft Azure / Windows Administration</h3>
 
-- <b>Active Directory on Azure — Domain Controller, DNS, Users, and Remote Access</b>
-  - <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory Lab: Domain Controller and User Management in Azure</a>
-  - Demonstrates Windows Server, domain controller setup, DNS, domain joining, organizational units, users, groups, RDP, and account administration.
+- <b>Active Directory User Support Lab on Azure</b>
+  - <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory User Support Lab on Azure</a>
+  - Demonstrates Windows Server, domain controller setup, DNS, domain joining, organizational units, users, groups, RDP, and account administration support tasks.
 
 - <b>Azure Networking and NSG Troubleshooting — Wireshark, Protocols, and Cloud Firewall Rules</b>
   - <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Protocols and NSG Troubleshooting Lab</a>
