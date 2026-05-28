@@ -2,7 +2,7 @@
 
 <h2>Start Here</h2>
 
-I'm building a hands-on portfolio for remote IT support, cloud support, and practical automation roles. The projects below show troubleshooting, ticket documentation, Azure fundamentals, Active Directory basics, Windows command-line diagnostics, and Python/API automation.
+I'm building a hands-on portfolio for remote IT support, cloud support, and practical automation roles. The projects below are the strongest public-facing examples of my troubleshooting, ticket documentation, Azure fundamentals, Active Directory basics, Windows command-line diagnostics, and Python/API automation work.
 
 For a fast review, start with:
 
@@ -11,6 +11,7 @@ For a fast review, start with:
 3. <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Command-Line Troubleshooting Lab</a>
 4. <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory on Azure Lab</a>
 5. <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Troubleshooting Lab</a>
+6. <a href="https://github.com/RyanRFrechette/osticket-help-desk-lab">osTicket Help Desk Lab</a>
 
 For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide</a>.
 
@@ -32,14 +33,11 @@ For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide
   - <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Troubleshooting Command Line Lab</a>
   - Practical command-line troubleshooting lab covering ipconfig, ping, tracert, nslookup, systeminfo, tasklist, and netstat with privacy-cleaned command output and support-style notes.
 
-<h3>3. Help Desk Platform Administration</h3>
+- <b>osTicket Help Desk Lab — Ticketing System Workflow and Documentation</b>
+  - <a href="https://github.com/RyanRFrechette/osticket-help-desk-lab">osTicket Help Desk Lab</a>
+  - Completed ticketing-system lab using osTicket in a local Docker environment, with realistic support tickets, screenshots, workflow documentation, and help desk process practice.
 
-- <b>osTicket Help Desk Series — Deployment, Configuration, and Ticket Lifecycle</b>
-  - <a href="https://github.com/RyanRFrechette/osticket-setup">osTicket Platform Deployment on Azure</a>
-  - <a href="https://github.com/RyanRFrechette/post-install-config">osTicket Post-Install Support Configuration</a>
-  - <a href="https://github.com/RyanRFrechette/ticket-stages">osTicket Ticket Lifecycle Workflow</a>
-
-<h3>4. Microsoft Azure / Windows Administration</h3>
+<h3>3. Microsoft Azure / Windows Administration</h3>
 
 - <b>Active Directory on Azure — Domain Controller, DNS, Users, and Remote Access</b>
   - <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory Lab: Domain Controller and User Management in Azure</a>
