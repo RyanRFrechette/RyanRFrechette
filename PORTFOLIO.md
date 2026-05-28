@@ -24,12 +24,9 @@ This page gives hiring managers a fast way to review my portfolio for remote IT 
    - Best proof of Azure networking fundamentals, Wireshark, Network Security Groups, connectivity testing, and protocol troubleshooting.
    - Repo: https://github.com/RyanRFrechette/azure-network-protocols
 
-6. **osTicket Help Desk Series**
-   - Best proof of help desk platform deployment, configuration, and ticket workflow understanding.
-   - Repos:
-     - https://github.com/RyanRFrechette/osticket-setup
-     - https://github.com/RyanRFrechette/post-install-config
-     - https://github.com/RyanRFrechette/ticket-stages
+6. **osTicket Help Desk Lab**
+   - Best proof of ticketing-system workflow, support-ticket documentation, and help desk process awareness.
+   - Repo: https://github.com/RyanRFrechette/osticket-help-desk-lab
 
 ## Portfolio Map
 
@@ -40,7 +37,7 @@ This page gives hiring managers a fast way to review my portfolio for remote IT 
 | Windows Command-Line Troubleshooting Lab | Diagnostic commands, evidence gathering, privacy-safe documentation | Help desk, desktop support, junior sysadmin |
 | Active Directory on Azure Lab | Domain controller, DNS, users, groups, RDP, account support | Help desk, desktop support, junior sysadmin, cloud support |
 | Azure Network Protocols and NSG Lab | Azure VMs, Wireshark, NSGs, ICMP, SSH, DNS, RDP troubleshooting | Cloud support, network support, technical support |
-| osTicket Series | Help desk deployment, configuration, and ticket lifecycle workflow | Help desk, support operations, IT support |
+| osTicket Help Desk Lab | Ticketing workflow, support documentation, ticket creation/resolution, screenshot evidence | Help desk, support operations, IT support |
 
 ## Core Skills Demonstrated
 
@@ -92,11 +89,11 @@ This page gives hiring managers a fast way to review my portfolio for remote IT 
 - The lab shows how I troubleshoot connectivity by checking protocol behavior, firewall rules, and expected vs actual results.
 - It connects cloud fundamentals with practical support troubleshooting.
 
-### osTicket Help Desk Series
+### osTicket Help Desk Lab
 
-- I deployed osTicket, configured support operations, and documented ticket lifecycle workflows.
-- The series shows I understand how help desks organize agents, departments, help topics, assignments, and ticket resolution.
-- It demonstrates both platform setup and day-to-day support process awareness.
+- I used osTicket to show how help desk tickets can be created, documented, categorized, updated, and resolved.
+- The lab includes realistic support-ticket scenarios and screenshot-based evidence.
+- It demonstrates familiarity with ticketing systems, support workflow discipline, and clear resolution documentation.
 
 ## Target Roles
 
