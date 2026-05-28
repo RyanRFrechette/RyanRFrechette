@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan Frechette â€” Remote IT Support, Cloud, and Automation Portfolio</h1>
+<h1>Hi, I'm Ryan Frechette Ã¢â‚¬â€ Remote IT Support, Cloud, and Automation Portfolio</h1>
 
 <h2>Start Here</h2>
 
@@ -6,12 +6,13 @@ I'm building a hands-on portfolio for remote IT support, cloud support, and prac
 
 For a fast review, start with:
 
-1. <a href="https://github.com/RyanRFrechette/inbox-scout">AI Gmail Cleanup Assistant â€” Inbox Scout</a>
-2. <a href="https://github.com/RyanRFrechette/Remote-Support-Operations-Lab">Remote IT Support Operations Lab</a>
-3. <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Command-Line Troubleshooting Lab</a>
-4. <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory User Support Lab on Azure</a>
-5. <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Troubleshooting Lab</a>
-6. <a href="https://github.com/RyanRFrechette/osticket-help-desk-lab">osTicket Help Desk Lab</a>
+1. <a href="https://github.com/RyanRFrechette/Microsoft-365-Entra-ID-Admin-Lab">Microsoft 365 / Entra ID Admin Lab</a>
+2. <a href="https://github.com/RyanRFrechette/osticket-help-desk-lab">osTicket Help Desk Lab</a>
+3. <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory User Support Lab on Azure</a>
+4. <a href="https://github.com/RyanRFrechette/Remote-Support-Operations-Lab">Remote IT Support Operations Lab</a>
+5. <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Command-Line Troubleshooting Lab</a>
+6. <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Troubleshooting Lab</a>
+7. <a href="https://github.com/RyanRFrechette/inbox-scout">AI Gmail Cleanup Assistant - Inbox Scout</a>
 
 For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide</a>.
 
@@ -19,21 +20,21 @@ For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide
 
 <h3>1. AI Automation / Python</h3>
 
-- <b>AI Gmail Cleanup Assistant â€” Inbox Scout with Telegram Control</b>
+- <b>AI Gmail Cleanup Assistant Ã¢â‚¬â€ Inbox Scout with Telegram Control</b>
   - <a href="https://github.com/RyanRFrechette/inbox-scout">Inbox Scout</a>
   - Local-first Python automation project using Gmail API, Telegram bot control, AI-assisted classification, OpenRouter model routing, safety gates, audit logs, and reversible Gmail Trash actions.
 
 <h3>2. Remote IT Support / Help Desk</h3>
 
-- <b>Remote Support Operations Lab â€” Tickets, KB Articles, and Cloud Support Scenarios</b>
+- <b>Remote Support Operations Lab Ã¢â‚¬â€ Tickets, KB Articles, and Cloud Support Scenarios</b>
   - <a href="https://github.com/RyanRFrechette/Remote-Support-Operations-Lab">Remote Support Operations Lab</a>
   - Simulated remote support portfolio with realistic tickets, knowledge base articles, Microsoft 365 support scenarios, VPN/network troubleshooting, phishing triage, and Azure/Windows support notes.
 
-- <b>Windows Command-Line Troubleshooting Lab â€” Real Diagnostic Output and Support Notes</b>
+- <b>Windows Command-Line Troubleshooting Lab Ã¢â‚¬â€ Real Diagnostic Output and Support Notes</b>
   - <a href="https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab">Windows Troubleshooting Command Line Lab</a>
   - Practical command-line troubleshooting lab covering ipconfig, ping, tracert, nslookup, systeminfo, tasklist, and netstat with privacy-cleaned command output and support-style notes.
 
-- <b>osTicket Help Desk Lab â€” Ticketing System Workflow and Documentation</b>
+- <b>osTicket Help Desk Lab Ã¢â‚¬â€ Ticketing System Workflow and Documentation</b>
   - <a href="https://github.com/RyanRFrechette/osticket-help-desk-lab">osTicket Help Desk Lab</a>
   - Completed ticketing-system lab using osTicket in a local Docker environment, with realistic support tickets, screenshots, workflow documentation, and help desk process practice.
 
@@ -47,7 +48,7 @@ For a complete hiring-manager view, see <a href="./PORTFOLIO.md">Portfolio Guide
   - <a href="https://github.com/RyanRFrechette/ad-setup">Active Directory User Support Lab on Azure</a>
   - Demonstrates Windows Server, domain controller setup, DNS, domain joining, organizational units, users, groups, RDP, and account administration support tasks.
 
-- <b>Azure Networking and NSG Troubleshooting â€” Wireshark, Protocols, and Cloud Firewall Rules</b>
+- <b>Azure Networking and NSG Troubleshooting Ã¢â‚¬â€ Wireshark, Protocols, and Cloud Firewall Rules</b>
   - <a href="https://github.com/RyanRFrechette/azure-network-protocols">Azure Network Protocols and NSG Troubleshooting Lab</a>
   - Demonstrates Azure VMs, Wireshark, ICMP, SSH, DNS, RDP, command-line troubleshooting, and Network Security Group rule testing.
 
