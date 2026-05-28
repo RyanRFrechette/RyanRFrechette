@@ -16,7 +16,7 @@ This page gives hiring managers a fast way to review my portfolio for remote IT 
    - Best proof of practical Windows diagnostic work using real command output and support-style notes.
    - Repo: https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab
 
-4. **Active Directory on Azure Lab**
+4. **Active Directory User Support Lab on Azure**
    - Best proof of Windows Server, domain controller setup, DNS, domain join, users, groups, and account support basics.
    - Repo: https://github.com/RyanRFrechette/ad-setup
 
@@ -35,7 +35,7 @@ This page gives hiring managers a fast way to review my portfolio for remote IT 
 | Inbox Scout | Python automation, Gmail API, Telegram bot control, AI-assisted classification, safety gates, audit logging | Automation support, cloud support, junior systems, technical support |
 | Remote Support Operations Lab | Ticket writing, user communication, KB articles, support scenarios, troubleshooting structure | Remote help desk, IT support, technical support |
 | Windows Command-Line Troubleshooting Lab | Diagnostic commands, evidence gathering, privacy-safe documentation | Help desk, desktop support, junior sysadmin |
-| Active Directory on Azure Lab | Domain controller, DNS, users, groups, RDP, account support | Help desk, desktop support, junior sysadmin, cloud support |
+| Active Directory User Support Lab on Azure | Domain controller, DNS, users, groups, RDP, account support | Help desk, desktop support, junior sysadmin, cloud support |
 | Azure Network Protocols and NSG Lab | Azure VMs, Wireshark, NSGs, ICMP, SSH, DNS, RDP troubleshooting | Cloud support, network support, technical support |
 | osTicket Help Desk Lab | Ticketing workflow, support documentation, ticket creation/resolution, screenshot evidence | Help desk, support operations, IT support |
 
@@ -77,7 +77,7 @@ This page gives hiring managers a fast way to review my portfolio for remote IT 
 - The project shows comfort with `ipconfig`, `ping`, `tracert`, `nslookup`, `systeminfo`, `tasklist`, and `netstat`.
 - I also redacted sensitive output, showing awareness of privacy and documentation safety.
 
-### Active Directory on Azure Lab
+### Active Directory User Support Lab on Azure
 
 - I built a basic domain lab using Azure VMs, Windows Server, Active Directory, DNS, and a Windows client.
 - I practiced common support tasks such as user creation, account unlocks, password resets, disabling/enabling users, and domain join concepts.
