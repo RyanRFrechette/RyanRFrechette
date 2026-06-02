@@ -1,4 +1,4 @@
-# Hi, I'm Ryan Frechette - Entry-Level IT Support and Help Desk Portfolio
+﻿# Hi, I'm Ryan Frechette - Entry-Level IT Support and Help Desk Portfolio
 
 ## Recruiter TL;DR
 
@@ -63,7 +63,7 @@ Local-first email cleanup assistant using Telegram control, AI-assisted classifi
 - Help desk ticket documentation and user communication
 - osTicket ticket intake, categorization, notes, replies, and resolution tracking
 - Read-only PowerShell support checks and reporting
-- Networking fundamentals: DNS, DHCP, ICMP, RDP, SSH, and firewall ruler
+- Networking fundamentals: DNS, DHCP, ICMP, RDP, SSH, and firewall rules
 - Screenshot-based documentation and case-study writing
 - Practical AI-assisted workflow use as a support productivity tool
 
@@ -89,3 +89,4 @@ Local-first email cleanup assistant using Telegram control, AI-assisted classifi
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/RyanRFrechette) | [GitHub](https://github.com/RyanRFrechette)
+
