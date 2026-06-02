@@ -15,6 +15,18 @@ My projects are built to show practical support habits: gather evidence, documen
 5. [Windows Command-Line Troubleshooting Lab](https://github.com/RyanRFrechette/Windows-Troubleshooting-Command-Line-Lab)
 6. [PowerShell Help Desk Automation Toolkit](https://github.com/RyanRFrechette/PowerShell-Help-Desk-Automation-Toolkit)
 
+## Case Studies
+
+Short, honest writeups of what each project demonstrates for an IT support role. These are labs, simulated support workflows, and portfolio projects — not professional production work.
+
+- [IT Support Case Studies (index)](case-studies/README.md)
+- [Microsoft 365 / Entra ID User Support Lab](case-studies/01-microsoft-365-entra-id-user-support.md)
+- [Active Directory User Support Lab](case-studies/02-active-directory-user-support-lab.md)
+- [Help Desk Homelab — Windows Domain Support](case-studies/03-help-desk-homelab-windows-domain-support.md)
+- [osTicket Help Desk — Ticket Lifecycle](case-studies/04-osticket-ticket-lifecycle.md)
+- [Windows Command-Line Troubleshooting Lab](case-studies/05-windows-command-line-troubleshooting.md)
+- [PowerShell Read-Only Help Desk Checks](case-studies/06-powershell-read-only-help-desk-checks.md)
+
 ## Featured IT Support Projects
 
 ### [Microsoft 365 / Entra ID Admin Lab](https://github.com/RyanRFrechette/Microsoft-365-Entra-ID-Admin-Lab)
